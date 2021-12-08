@@ -1,0 +1,6 @@
+module Pods_aCard {
+  umbrella header "Pods-aCard-umbrella.h"
+
+  export *
+  module * { export * }
+}

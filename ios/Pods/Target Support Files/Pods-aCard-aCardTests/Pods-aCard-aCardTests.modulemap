@@ -1,0 +1,6 @@
+module Pods_aCard_aCardTests {
+  umbrella header "Pods-aCard-aCardTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
